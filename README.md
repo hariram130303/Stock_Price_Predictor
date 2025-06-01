@@ -59,8 +59,8 @@ To run this project locally, follow the steps below:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/Stock-Price-Prediction-Using-Machine-Learning.git
-    cd Stock-Price-Prediction-Using-Machine-Learning
+    git clone https://github.com/hariram130303/Stock_Price_Predictor.git
+    cd Stock_Price_Predictor-main
     ```
 
 2. **Create a Virtual Environment**:
@@ -95,7 +95,7 @@ Stock-Price-Prediction-Using-Machine-Learning/
 └── .gitignore                    # Ignored files for Git
 
 ```
-## Abhishek Ashok Sangule
+## Thogata Madam Hari Ram
 Email: tmhariram@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/hari-ram-thogata-madam-90ab02230/
