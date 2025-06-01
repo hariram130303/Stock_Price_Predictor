@@ -1,5 +1,6 @@
 # live (deploy on Streamlit Community io) : 
 
+
 # Stock Price Prediction Using Machine Learning
 
 This repository contains a project for predicting stock prices of multinational companies (MNCs) for the next 30 days using machine learning techniques. The model is trained on historical stock price data and utilizes a user-friendly interface built with Streamlit.
@@ -95,6 +96,8 @@ Stock-Price-Prediction-Using-Machine-Learning/
 
 ```
 ## Abhishek Ashok Sangule
-Email: abhisheksangule6@gmail.com
-LinkedIn: https://www.linkedin.com/in/abhishek-sangule-07b202319/
-GitHub: AbhishekRDJ
+Email: tmhariram@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hari-ram-thogata-madam-90ab02230/
+
+GitHub: https://github.com/hariram130303
