@@ -1,5 +1,5 @@
 # live (deploy on Streamlit Community io) : 
-
+https://stockpricepredictor-t3crbbsowqfltggyliq5eu.streamlit.app/
 
 # Stock Price Prediction Using Machine Learning
 
